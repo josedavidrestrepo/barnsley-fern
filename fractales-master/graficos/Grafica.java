@@ -6,7 +6,7 @@ import java.awt.Graphics;
 
 @SuppressWarnings("serial")
 
-public class Graficar extends Canvas {
+public class Grafica extends Canvas {
 	/**
 	 * Dibujar
 	 * 

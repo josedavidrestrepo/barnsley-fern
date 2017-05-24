@@ -18,7 +18,7 @@ public class BarnsleyFern extends JPanel {
         double x = 0;
         double y = 0;
 
-        for (int i = 0; i < 8000000; i++) {
+        for (int i = 0; i < 1000000; i++) {
             double tmpx, tmpy;
             double r = Math.random();
 
